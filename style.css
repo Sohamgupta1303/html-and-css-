@@ -1,0 +1,44 @@
+
+    h1{
+        color: rgb(7, 23, 248)
+    }
+    *{
+        border: solid;
+    }
+
+    .header{
+        background-color: rgb(61, 236, 17)   ;
+        display:flex;
+
+        justify-content: center;
+
+    }
+
+    .games{
+        background-color: rebeccapurple;
+        display:flex;
+        flex-wrap:nowrap;
+        justify-content: space-evenly
+    }
+
+    .software{
+        background-color : red;
+        display:flex;
+        
+        justify-content: space-around
+
+    }
+
+    .games{
+        background-color: orange;
+        display:flex;
+
+        justify-content: space-evenly;
+    }
+
+    .title1{
+        background-color: magenta;
+        display:flex;
+
+        justify-content: flex-end;
+    }
